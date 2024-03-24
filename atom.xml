@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rashad-diskette.github.io</id>
+    <title>Weiyubin&apos;s Blog</title>
+    <updated>2024-03-24T02:04:07.379Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rashad-diskette.github.io"/>
+    <link rel="self" href="https://rashad-diskette.github.io/atom.xml"/>
+    <logo>https://rashad-diskette.github.io/images/avatar.png</logo>
+    <icon>https://rashad-diskette.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Weiyubin&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[My Awards]]></title>
+        <id>https://rashad-diskette.github.io/lqTze1sRQ/</id>
+        <link href="https://rashad-diskette.github.io/lqTze1sRQ/">
+        </link>
+        <updated>2023-12-01T16:08:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Office Network Renovation & CCTV Security System Installation]]></title>
+        <id>https://rashad-diskette.github.io/p_Gnc_YBX/</id>
+        <link href="https://rashad-diskette.github.io/p_Gnc_YBX/">
+        </link>
+        <updated>2022-07-03T15:34:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The National Finals of the RoboCom Youth Challenge, 2017 World Robotics Competition]]></title>
+        <id>https://rashad-diskette.github.io/CdMYFYCo8/</id>
+        <link href="https://rashad-diskette.github.io/CdMYFYCo8/">
+        </link>
+        <updated>2017-07-29T07:41:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily training]]></title>
+        <id>https://rashad-diskette.github.io/-RNm9Hru1/</id>
+        <link href="https://rashad-diskette.github.io/-RNm9Hru1/">
+        </link>
+        <updated>2017-07-23T07:55:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First prize! The First Fuyang Primary and Secondary School Robot Competition]]></title>
+        <id>https://rashad-diskette.github.io/Ge214RLyz/</id>
+        <link href="https://rashad-diskette.github.io/Ge214RLyz/">
+        </link>
+        <updated>2017-05-07T06:23:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Prize ! in the East China Division of World Educational Robot Cotest]]></title>
+        <id>https://rashad-diskette.github.io/tOI5dMTJ-/</id>
+        <link href="https://rashad-diskette.github.io/tOI5dMTJ-/">
+        </link>
+        <updated>2017-03-29T12:53:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I am currently providing training on robotics knowledge to the members of our club.]]></title>
+        <id>https://rashad-diskette.github.io/n6X7BwsS-/</id>
+        <link href="https://rashad-diskette.github.io/n6X7BwsS-/">
+        </link>
+        <updated>2016-12-02T13:50:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Olympic Robotics Competition]]></title>
+        <id>https://rashad-diskette.github.io/3AtclvhJm/</id>
+        <link href="https://rashad-diskette.github.io/3AtclvhJm/">
+        </link>
+        <updated>2016-07-25T08:15:13.000Z</updated>
+    </entry>
+</feed>
